@@ -82,7 +82,7 @@ The application allows performing the following operations:
 - Modify and view infraction data.
 ## Technical Architecture
 
-<img src="https://raw.githubusercontent.com/YoussefSAKLAB/radar-violation-detection-system/main/assets/radar-violation-detection-system-technical-architecture.png">
+<img src="https://raw.githubusercontent.com/YoussefSAKLAB/radar-violation-detection-system/main/assets/radar-violation-detection-system-architecture.png">
 
 ## Class Diagram 
 
