@@ -53,7 +53,7 @@ npm install
 ```
 ng serve
 ```
-5. Download Keycloak from the official website : https://www.keycloak.org/downloads and then navigate to keycloak/ directory and run the following command :
+5. Download Keycloak from the official website https://www.keycloak.org/downloads , and then navigate to keycloak/ directory and run the following command :
 On MaC/Linux
 ```
 ./bin/kc.sh start-dev
