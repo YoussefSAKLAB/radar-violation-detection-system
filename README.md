@@ -1,12 +1,11 @@
 # Radar Violation Detection System
 
-```
 This web-based application combines the power of Spring Boot and Angular to create a radar violation detection system. Its main purpose is to identify and monitor radar violations, ensuring timely notifications and generating reports for effective traffic management.
 
 The backend is developed using Spring Boot, while the frontend utilizes Angular with Bootstrap to deliver a user-friendly interface.
 
 Apart from the fundamental functionalities of data querying and modification, the system offers the capability to report speeding violations, which creates a record of the offense. Additionally, it provides vehicle owners with the convenience of viewing their personal violations, granting them quick access to their offense history.
-```
+
 # Table of Contents
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
