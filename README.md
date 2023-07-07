@@ -53,7 +53,7 @@ npm install
 ```
 ng serve
 ```
-5. Navigate to keycloak-21.1.2 directory and run the following command to run keyclock :
+5. Download Keycloak from the official website : https://www.keycloak.org/downloads and then navigate to keycloak/ directory and run the following command :
 On MaC/Linux
 ```
 ./bin/kc.sh start-dev
@@ -62,7 +62,7 @@ On Windows
 ```
 ./bin/kc.bat start-dev
 ```
-5. Open your browser and navigate to `http://localhost:4200` to access the application.
+6. Open your browser and navigate to `http://localhost:4200` to access the application.
 ## Technologies Used
 The following technologies and frameworks are used in this application:
 
@@ -86,7 +86,7 @@ The application allows performing the following operations:
 
 ## Class Diagram 
 
-<img src="https://github.com/YoussefSAKLAB/radar-violation-detection-system/blob/main/assets/radar-violation-detection-system-class-diagram.png?raw=true" width="76%">
+<img src="https://github.com/YoussefSAKLAB/radar-violation-detection-system/blob/main/assets/radar-violation-detection-system-class-diagram.png?raw=true">
 
 ## Backend Services
 
