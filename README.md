@@ -641,8 +641,12 @@ On the Infractions page, users can access a comprehensive list of infractions al
             </p>
         </td>
     </tr>
-</table>    
+</table> 
 
+# Docker deployment
+```
+The `docker-compose.yml` script to deploy the distributed system in Docker containers.
+```
 # Author
 
 - [@YoussefSAKLAB](https://www.github.com/YoussefSAKLAB)
