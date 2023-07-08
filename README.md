@@ -467,7 +467,7 @@ A Java application designed to simulate a radar system that generates random ins
         <td>
             <p align="center">
                 <img alt="project example"
-                     src="https://github.com/el-moudni-hicham/radar-violation-detection-system/assets/85403056/0068cd62-3044-47ad-b1ac-a03c34713801"/>
+                     src="https://github.com/YoussefSAKLAB/radar-violation-detection-system/blob/main/assets/road-radar.png?raw=true"/>
             </p>
         </td>
     </tr>
